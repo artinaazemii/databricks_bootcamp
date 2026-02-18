@@ -4,7 +4,7 @@ bundle:
 targets:
   dev:
     workspace:
-      host: https://dbc-8b898f1f-7bcf.cloud.databricks.com
+      host: https://dbc-b8b98f1f-7bcf.cloud.databricks.com/browse/folders/3698059308480729?o=309869074317167
 
 resources:
   jobs:
